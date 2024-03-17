@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MM
-email:
+title: Shipping Company
+email: otp.shipping.company.llc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -65,13 +65,13 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://add-hx.github.io/"
+      url: "https://otp-shipping-company-llc.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Add-HX"
+      url: "https://github.com/otp-shipping-company-llc"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/howard-fu-0b6880208"
+      url: "www.linkedin.com"
     - label: "SoundCloud"
       icon: "fab fa-fw fa-soundcloud"
       url: "https://soundcloud.com/shipping-company-970455522"
@@ -80,10 +80,10 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Add-HX"
+      url: "https://github.com/otp-shipping-company-llc"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/howard-fu-0b6880208"
+      url: "www.linkedin.com"
     - label: "SoundCloud"
       icon: "fab fa-fw fa-soundcloud"
       url: "https://soundcloud.com/shipping-company-970455522"
